@@ -1,8 +1,8 @@
 import java.util.*;
 
-class Palindrome{
+class Palindrome2{
 	public static void main(String[] args) {
-		//object and scanner declaration
+		
 		Scanner scn=new Scanner(System.in);
 		binaria bnobj=new binaria();
 
